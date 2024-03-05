@@ -1,0 +1,12 @@
+/.deployment
+/.env
+/.vscode
+/chatbot
+/config.json
+/db
+/input
+/listretrieve.py
+/realdata
+/requirements.txt
+/static
+/templates
