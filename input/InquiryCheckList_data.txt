@@ -1,0 +1,127 @@
+AF Form 32 - Certificate for Travel Under Classified Orders	Certificate for Travel Under Classified Orders	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af32/af32.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af32/af32.pdf'}
+Request, Authorization, and Pay Order Basic Allowance for Subsistence (BAS)	AF Form 220 - Request, Authorization, and Pay Order Basic Allowance for Subsistence (BAS)	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af220/af220.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af220/af220.pdf'}
+Application and Authorization to Start, Stop or Change Basic Allowance for Quarters (BAQ) or Dependency Determination	AF Form 594 - Application and Authorization to Start, Stop or Change Basic Allowance for Quarters (BAQ) or Dependency Determination	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af594/af594.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af594/af594.pdf'}
+Leave Request/Authorization	AF Form 988 - Leave Request/Authorization	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af988/af988.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af988/af988.pdf'}
+Request to Receive and/or Extend Repayment of an Advanced Housing Allowance	AF Form 1039 - Request to Receive and/or Extend Repayment of an Advanced Housing Allowance	None
+Leave Settlement Option	AF Form 1089 - Leave Settlement Option	{'Description': 'https://static.e-publishing.af.mil/production/1/af_a1/form/af1089/af1089.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/af_a1/form/af1089/af1089.pdf'}
+Document Transmittal (JUMPS)	AF Form 1209 - Document Transmittal (JUMPS)	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af1209/af1209.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af1209/af1209.pdf'}
+Address Change Form	AF Form 1745 - Address Change Form	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af1881/af1881.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af1881/af1881.pdf'}
+Hostile Fire Pay Certification and MPO	AF Form 1881 - Hostile Fire Pay Certification and MPO	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af1881/af1881.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af1881/af1881.pdf'}
+Officer Uniform Allowance Certification	AF Form 1969 - Officer Uniform Allowance Certification	{'Description': 'https://static.e-publishing.af.mil/production/1/af_a1/form/af1969/af1969.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/af_a1/form/af1969/af1969.pdf'}
+Statement of Adverse Effect - Use of Government Facilities	AF Form 2282 - Statement of Adverse Effect - Use of Government Facilities	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af2282/af2282.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af2282/af2282.pdf'}
+Financial Statement - Remission of Indebtedness (LRA)	AF Form 2451 - Financial Statement - Remission of Indebtedness (LRA)	{'Description': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af2451/af2451_rev.pdf', 'Url': 'https://static.e-publishing.af.mil/production/1/saf_fm/form/af2451/af2451_rev.pdf'}
+None	Civilian Clothing Allowance Template	None
+Military Pay Order	DD Form 114 - Military Pay Order	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0114.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0114.pdf'}
+Pay Voucher, Military	DD Form 117 - Pay Voucher, Military	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0117.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0117.pdf'}
+Cash Collection Voucher	DD Form 1131 - Cash Collection Voucher	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1131.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1131.pdf'}
+Travel Voucher	DD Form 1351 - Travel Voucher	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1351.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1351.pdf'}
+None	DD Form 1351 - DITY Advance	None
+None	DD Form 1351 - DLA Advance	None
+Travel Voucher or Subvoucher	DD Form 1351-2 - Travel Voucher or Subvoucher	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1351-2.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1351-2.pdf'}
+Travel Voucher or Subvoucher (Continuation Sheet)	DD Form 1351-2c - Travel Voucher or Subvoucher (Continuation Sheet)	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd13512c.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd13512c.pdf'}
+Statement to Substantiate Payment of Family Separation Allowance (FSA)	DD Form 1561 - Statement to Substantiate Payment of Family Separation Allowance (FSA)	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1561.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1561.pdf'}
+Reimbursement for Real Estate Sale and/or Purchase Closing Cost Expenses	DD Form 1705 - Reimbursement for Real Estate Sale and/or Purchase Closing Cost Expenses	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1705.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1705.pdf'}
+State Of Legal Residence Certificate	DD Form 2058 - State Of Legal Residence Certificate	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2058.pdf?ver=2018-01-24-140650-447', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2058.pdf?ver=2018-01-24-140650-447'}
+State Income Tax Exemption Test Certificate	DD Form 2058-1 - State Income Tax Exemption Test Certificate	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2058-1.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2058-1.pdf'}
+Native American State Income Tax Withholding Exemption Certificate	DD Form 2058-2 - Native American State Income Tax Withholding Exemption Certificate	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2058-2.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2058-2.pdf'}
+Overseas Housing Allowance (OHA) Report, Individual	DD Form 2367 - Overseas Housing Allowance (OHA) Report, Individual	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2367.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2367.pdf'}
+Authorization to Start, Stop, or Change an Allotment	DD Form 2558 - Authorization to Start, Stop, or Change an Allotment	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2558.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2558.pdf'}
+Advance Pay Certification/Authorization	DD Form 2560 - Advance Pay Certification/Authorization	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2560.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2560.pdf'}
+Waiver/Remission of Indebtedness Application	DD Form 2789 - Waiver/Remission of Indebtedness Application	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2789.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2789.pdf'}
+Request to Correct Thrift Savings Plan Agency Error	DD Form 2851 - Request to Correct Thrift Savings Plan Agency Error	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2851.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2851.pdf'}
+System Authorization Access Request (SAAR)	DD Form 2875 - System Authorization Access Request (SAAR)	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2875.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2875.pdf'}
+Claim for Temporary Quarters Subsistence Expense (TQSE) (Sub-voucher)	DD Form 2912 - Claim for Temporary Quarters Subsistence Expense (TQSE) (Sub-voucher)	{'Description': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2912.pdf', 'Url': 'https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2912.pdf'}
+None	Debt Notification Letter	None
+Claim for Reimbursement for Expenditures on Official Business	OF 1164 - Claim for Reimbursement for Expenditures on Official Business	{'Description': 'https://www.gsa.gov/Forms/TrackForm/32639', 'Url': 'https://www.gsa.gov/Forms/TrackForm/32639'}
+Authorization, Agreement and Certification of Training	SF 182 - Authorization, Agreement and Certification of Training	{'Description': 'https://www.gsa.gov/cdnstatic/SF182-06.pdf?forceDownload=1', 'Url': 'https://www.gsa.gov/cdnstatic/SF182-06.pdf?forceDownload=1'}
+Public Voucher for Purchases and Services Other Than Personal	SF 1034 - Public Voucher for Purchases and Services Other Than Personal	{'Description': 'https://www.gsa.gov/Forms/TrackForm/32752', 'Url': 'https://www.gsa.gov/Forms/TrackForm/32752'}
+Direct Deposit Sign-Up Form	SF 1199A - Direct Deposit Sign-Up Form	{'Description': 'https://www.gsa.gov/cdnstatic/SF1199A-12a.pdf?forceDownload=1', 'Url': 'https://www.gsa.gov/cdnstatic/SF1199A-12a.pdf?forceDownload=1'}
+Election Form (Civilian)	TSP-1 - Election Form (Civilian)	{'Description': 'https://www.tsp.gov/PDF/formspubs/tsp-1.pdf', 'Url': 'https://www.tsp.gov/PDF/formspubs/tsp-1.pdf'}
+Catch-Up Contribution Election (Civilian)	TSP-1-C - Catch-Up Contribution Election (Civilian)	{'Description': 'https://www.tsp.gov/PDF/formspubs/tsp-1-c.pdf', 'Url': 'https://www.tsp.gov/PDF/formspubs/tsp-1-c.pdf'}
+Election Form (Military)	TSP-U-1 - Election Form (Military)	{'Description': 'https://www.tsp.gov/PDF/formspubs/tsp-u-1.pdf', 'Url': 'https://www.tsp.gov/PDF/formspubs/tsp-u-1.pdf'}
+Catch-Up Contribution Election (Military)	TSP-U-1-C - Catch-Up Contribution Election (Military)	{'Description': 'https://www.tsp.gov/PDF/formspubs/tsp-u-1-c.pdf', 'Url': 'https://www.tsp.gov/PDF/formspubs/tsp-u-1-c.pdf'}
+Employee’s Withholding Allowance Certificate	W-4 - Employee’s Withholding Allowance Certificate	{'Description': 'https://www.irs.gov/pub/irs-pdf/fw4.pdf', 'Url': 'https://www.irs.gov/pub/irs-pdf/fw4.pdf'}
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	{'Description': 'https://www.dfas.mil/militarymembers/SecondaryDependency/secondarydependency_AirForce.html', 'Url': 'https://www.dfas.mil/militarymembers/SecondaryDependency/secondarydependency_AirForce.html'}
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+None	None	None
+Secondary Dependents	Basic Allowance for Housing (BAH) - Secondary Dependents	{'Description': 'Basic Allowance for Housing (BAH) - Secondary Dependents', 'Url': 'https://www.dfas.mil/militarymembers/SecondaryDependency/secondarydependency_AirForce.html'}
+None	None	None
+None	None	None
+None	None	{'Description': 'https://www.dfas.mil/militarymembers/SecondaryDependency/secondarydependency_AirForce/', 'Url': 'https://www.dfas.mil/militarymembers/SecondaryDependency/secondarydependency_AirForce/'}
+None	None	None
+None	None	None
