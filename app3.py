@@ -59,8 +59,8 @@ def process_llm_response(llm_response):
     return response_text
 
 
-@app.route('/api/ideaentity', methods=['POST'])  
-def ideaentity_api():
+@app.route('/api/test', methods=['POST'])  
+def test_api():
     user_input = request.json.get('user_input', '')
     llm_response = qa_chain(user_input)
     bot_response = process_llm_response(llm_response)
